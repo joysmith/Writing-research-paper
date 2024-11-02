@@ -33,6 +33,8 @@ A literature survey is finding out combination of relevant **review papers** and
 
 ### 2. Gathering paper<a id='2'></a>
 
+Below are some recommended journal selection tools that can help you identify journals relevant to your manuscript and research goals:
+
 Note: some paper can be downloaded some can't
 
 <br>
@@ -51,6 +53,32 @@ Note: some paper can be downloaded some can't
 [arxiv](https://arxiv.org/): researcher pre-publish their paper here, so other researcher may not steal their work
 
 <br>
+
+1. [Edanz Journal Selector](https://www.edanz.com/journal-selector): Search over 28,655 journals and 12 million abstracts to find the best fit for your paper.
+
+2. [Jane (Journal/Author Name Estimator)](https://jane.biosemantics.org/): Whether you are looking for a suitable journal, relevant articles to cite, or reviewers, Jane is a valuable tool.
+
+3. [Trinka Journal Finder](https://www.trinka.ai/journal-finder): Using AI, Trinka’s Journal Finder recommends journals based on your manuscript abstract.
+
+4. [ScienceGate Journal Finder](https://www.sciencegate.app/app/journal-finder): Input your title and abstract to identify the most suitable and relevant journals.
+
+5. [Researcher.Life Global Journal Database](https://researcher.life/journal): Offers a comprehensive journal database to find quality journals for your research. Global Journal Database
+
+🏆 Additionally, here are journal finders from leading publishers:
+
+6. ✅ [Wiley Journal Finder](https://journalfinder.wiley.com/search?type=match):
+
+7. ✅ [Elsevier Journal Finder](https://journalfinder.elsevier.com/):
+
+8. ✅ [Springer Journal Finder](https://link.springer.com/journals):
+
+9. [Taylor & Francis Journal Suggester](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/):
+
+10. ✅ [IEEE Publication ( journal and conference) Recommender](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/):
+
+11. [SAGE Journal Recommender](https://journal-recommender.sagepub.com/):
+
+I hope these resources prove valuable in identifying the ideal platform for your research publications.
 
 ### 3. Literature review tools<a id='3'></a>
 
