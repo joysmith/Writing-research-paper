@@ -1,16 +1,18 @@
-1. Literature survey
-2. Gathering paper
-3. Literature review tools
-4. Paper writing tools
-5. Plagiarism check tools
-6. Reference and citation management tools
-7. Research networking and sharing
+# How to do Literature survey
+
+1. [Literature survey](#1)
+2. [Gathering paper](#2)
+3. [Literature review tools](#3)
+4. [Paper writing tools](#4)
+5. [Plagiarism check tools](#5)
+6. [Reference and citation management tools](#6)
+7. [Research networking and sharing](#7)
 
 ---
 
 <br>
 
-### 1. Literature survey
+### 1. Literature survey<a id='1'></a>
 
 What is literature survey: Literature survey means gathering information on th research that has _already been conducted_ on a particular topic
 
@@ -29,7 +31,7 @@ A literature survey is finding out combination of relevant **review papers** and
 
 <br>
 
-### 2. Gathering paper
+### 2. Gathering paper<a id='2'></a>
 
 Note: some paper can be downloaded some can't
 
@@ -50,7 +52,7 @@ Note: some paper can be downloaded some can't
 
 <br>
 
-### 3. Literature review tools
+### 3. Literature review tools<a id='3'></a>
 
 <img src="./resource/assets/images/5.png" width="700">
 
@@ -64,7 +66,7 @@ Note: some paper can be downloaded some can't
 
 <br>
 
-### 4. Paper writing tools
+### 4. Paper writing tools<a id='4'></a>
 
 1. [trinka](https://www.trinka.ai/): Trinka AI is a privacy-first English grammar checker and language enhancement writing assistant designed for academic and technical writing.
 1. [quillbot](https://quillbot.com/): Paraphrase Generator. Online Paraphrasing Tool.
@@ -72,7 +74,7 @@ Note: some paper can be downloaded some can't
 
 <br>
 
-### 5. Plagiarism check tools
+### 5. Plagiarism check tools<a id='5'></a>
 
 1. [plag](https://www.plag.ai/): Plagiarism checker - Plag.ai plagiarism checker.
 1. [turnitin](https://www.turnitin.com/):
@@ -80,13 +82,13 @@ Note: some paper can be downloaded some can't
 
 <br>
 
-### 6. Reference and citation management tools
+### 6. Reference and citation management tools<a id='6'></a>
 
 1. [mybib](https://www.mybib.com/): Automatically create bibliographies, references, and citations in APA, MLA, Chicago, Harvard, and more with our fast and free citation generator.
    - put doi of any paper to generate biblography with different style
 
-### 7. Research networking and sharing
+### 7. Research networking and sharing<a id='7'></a>
 
 1. ResearchGate: professional network for researcher
-2. Academia.edu: share and discover acdemic research
+2. Academia.edu: share and discover academic research
 3. Linkedin: Networking platform with many academic groups and discussion

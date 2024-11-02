@@ -1,18 +1,20 @@
-1. Abstract
-2. Introduction
-3. Material and methods
-4. Results and discussion
-5. Conclusion
-6. Reference
-7. Finding title of your paper
-8. Finding keywords
-9. How to start writing paper the process
+# Structure of research paper
+
+1. [Abstract](#1)
+2. [Introduction](#2)
+3. [Material and methods](#3)
+4. [Results and discussion](#4)
+5. [Conclusion](#5)
+6. [Reference](#6)
+7. [Finding title of your paper](#7)
+8. [Finding keywords](#8)
+9. [How to start writing paper the process](#9)
 
 ---
 
 <br>
 
-### 1. Abstract
+### 1. Abstract<a id='1'></a>
 
 an abstract is a summary of your research article limited of 250 to 300 words comprises of IMRDC structure
 
@@ -20,7 +22,7 @@ an abstract is a summary of your research article limited of 250 to 300 words co
 
 <br>
 
-### 2. Introduction
+### 2. Introduction<a id='2'></a>
 
 In introduction we cover following topics-
 
@@ -32,15 +34,17 @@ In introduction we cover following topics-
 
 <br>
 
-### 3. Material and methods
+### 3. Material and methods<a id='3'></a>
 
 1. List of materials: used in experiment
-2. Step by step procedure of my method, for CS is algorithm
+2. Step by step procedure of my method; for CS is algorithm
 3. Tools and instrument used for data analysis
 
 Ensure reliability of experiments, the experiment should be transparent
 
-### 4. Results and discussion
+<br>
+
+### 4. Results and discussion<a id='4'></a>
 
 1. Data: visual, graphic etc
 2. Result: explanation of data
@@ -50,26 +54,26 @@ Ensure reliability of experiments, the experiment should be transparent
 
 <br>
 
-### 5. Conclusion
+### 5. Conclusion<a id='5'></a>
 
 1. Objective: achievements or findings we approached
 2. Review key findings
 3. Implications of applications
 4. Recommendations for future
 
-### 6. Reference
+### 6. Reference<a id='6'></a>
 
 Give credits to the source in a list following a specific citation style
 
 <br>
 
-### 7. Finding title of your paper
+### 7. Finding title of your paper<a id='7'></a>
 
 at last we do 10-20 words that give some meaning
 
 <br>
 
-### 8. Finding keywords
+### 8. Finding keywords<a id='8'></a>
 
 after abstract we put
 
@@ -77,7 +81,7 @@ after abstract we put
 
 <br>
 
-### 9. How to start writing paper "The process"
+### 9. How to start writing paper "Process: The order"
 
 1. material and methods
 2. Introduction part(method that you used, the definition, research gap, literature survey)

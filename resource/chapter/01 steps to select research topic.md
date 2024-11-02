@@ -1,9 +1,9 @@
-# Publish-research-paper-writing
+# Writing research paper
 
-1. [Step 1: How to choose a research topic](#1)
-2. [Step 2: Do your own research](#2)
-3. [Step 3: Writing a research paper](#3)
-4. [Step 4: Structure of a research paper](#4)
+1. [Step: How to choose a research topic](#1)
+2. [Step: Do your own research](#2)
+3. [Step: Writing a research paper](#3)
+4. [Step: Structure of a research paper](#4)
 
 ---
 
