@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1c1YXajmzCG0ccOwMa-f91dQFiazaCfSN/view?usp=sharing
+
 # Publish-research-paper-writing
 
 1. Step 1: How to choose a research topic
