@@ -3,6 +3,7 @@
 1. Step 1: How to choose a research topic
 2. Step 2: Do your own research
 3. Step 3: Writing a research paper
+4. Step 4: Structure of a research paper
 
 ### Step 1: How to choose a research topic
 
@@ -12,9 +13,10 @@
 
 ### Step 2: Do your own research
 
-- Experimental research
-- Theoretical research
-- End of it you should arrive at a result which is novel and it contributes to the research field and makes some impact
+1. Experimental research
+2. Theoretical research
+
+- conclusion End of it you should arrive at a result which is novel and it contributes to the research field and makes some impact
 
 ### Step 3: Writing a research paper
 
@@ -28,6 +30,8 @@
   - Materials and method
   - Results and discussion
   - Conclusion
+
+#### Note-
 
 - In introduction we generally mention the motivation background research problem that we are working on
 - In the conclusion we write the finding from that research problem then we talk what we have achieved and contributed to the research field
