@@ -18,7 +18,11 @@
 
 an abstract is a summary of your research article limited of 250 to 300 words comprises of IMRDC structure
 
-⬅️ put abstract paper link here
+examples:
+
+- [abstract](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/01%20abstract/01%20%20Data%20Dissemination%20Protocol%20for%20Mobile%20Sink%20in%20Wireless%20Sensor.pdf)
+- [abstract](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/01%20abstract/02%20.pdf)
+- [abstract](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/01%20abstract/03%20MSGR_A_Mode-Switched_Grid-based_Sustainable_Routin.pdf)
 
 <br>
 
