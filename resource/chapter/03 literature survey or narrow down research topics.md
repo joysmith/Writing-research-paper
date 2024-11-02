@@ -39,16 +39,16 @@ Note: some paper can be downloaded some can't
 
 <br>
 
-<img src="./resource/assets/images/1 google scholar.png" width="700">
+<img src="../assets/images/1 google scholar.png" width="700">
 [Google Scholar](https://scholar.google.com/): This will tell us future scope
 
 <br>
 
-<img src="./resource/assets/images/2.png" width="700">
+<img src="../assets/images/2.png" width="700">
 
-<img src="./resource/assets/images/3.png" width="700">
+<img src="../assets/images/3.png" width="700">
 
-<img src="./resource/assets/images/4.png" width="700">
+<img src="../assets/images/4.png" width="700">
 
 [arxiv](https://arxiv.org/): researcher pre-publish their paper here, so other researcher may not steal their work
 
@@ -82,7 +82,7 @@ I hope these resources prove valuable in identifying the ideal platform for your
 
 ### 3. Literature review tools<a id='3'></a>
 
-<img src="./resource/assets/images/5.png" width="700">
+<img src="../assets/images/5.png" width="700">
 
 1. [paperdigest](https://www.paperdigest.org/): The AI-powered research platform to write, review, get answers and more
 2. [elicit](https://elicit.com/): Analyze research papers at superhuman speed. Automate time-consuming research tasks like summarizing papers, extracting data, and synthesizing your findings

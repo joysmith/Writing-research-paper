@@ -63,6 +63,8 @@ Ensure reliability of experiments, the experiment should be transparent
 3. Implications of applications
 4. Recommendations for future
 
+<br>
+
 ### 6. Reference<a id='6'></a>
 
 Give credits to the source in a list following a specific citation style
@@ -83,9 +85,9 @@ after/below abstract we put keywords
 
 <br>
 
-### 9. How to start writing paper "Process: The order"
+### 9. How to start writing paper "Process: The order :order"
 
-1. material and methods
+1. Material and Methods
 2. Introduction part(method that you used, the definition, research gap, literature survey)
 3. Results and discussion
 4. Conclusion
