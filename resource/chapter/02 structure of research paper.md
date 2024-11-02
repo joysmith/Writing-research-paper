@@ -65,9 +65,9 @@ Ensure reliability of experiments, the experiment should be transparent
 
 example
 
-- [conclusion]()
-- [conclusion]()
-- [conclusion]()
+- [conclusion](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/05%20conclusion/01%20%20Data%20Dissemination%20Protocol%20for%20Mobile%20Sink%20in%20Wireless%20Sensor.pdf)
+- [conclusion](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/05%20conclusion/02%20.pdf)
+- [conclusion](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/05%20conclusion/03%20MSGR_A_Mode-Switched_Grid-based_Sustainable_Routin.pdf)
 
 <br>
 
