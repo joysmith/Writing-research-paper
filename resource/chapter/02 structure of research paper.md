@@ -69,6 +69,12 @@ Ensure reliability of experiments, the experiment should be transparent
 
 Give credits to the source in a list following a specific citation style
 
+example
+
+- []()
+- []()
+- []()
+
 <br>
 
 ### 7. Finding title of your paper<a id='7'></a>
