@@ -35,11 +35,12 @@ A literature survey is finding out combination of relevant **review papers** and
 
 Below are some recommended journal selection tools that can help you identify journals relevant to your manuscript and research goals:
 
-Note: some paper can be downloaded some can't
+Note: some paper can be downloaded, some can't
 
 <br>
 
 <img src="../assets/images/1 google scholar.png" width="700">
+
 [Google Scholar](https://scholar.google.com/): This will tell us future scope
 
 <br>
