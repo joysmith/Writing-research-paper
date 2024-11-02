@@ -87,6 +87,10 @@ example
 
 at last we do 10-20 words that give some meaning
 
+- [Title](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/07%20title/01%20%20Data%20Dissemination%20Protocol%20for%20Mobile%20Sink%20in%20Wireless%20Sensor.pdf)
+- [Title](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/07%20title/02%20.pdf)
+- [Title](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/07%20title/03%20MSGR_A_Mode-Switched_Grid-based_Sustainable_Routin.pdf)
+
 <br>
 
 ### 8. Finding keywords<a id='8'></a>
