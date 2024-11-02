@@ -81,6 +81,8 @@ Note: some paper can be downloaded, some can't
 
 I hope these resources prove valuable in identifying the ideal platform for your research publications.
 
+<br>
+
 ### 3. Literature review tools<a id='3'></a>
 
 <img src="../assets/images/5.png" width="700">
@@ -114,7 +116,9 @@ I hope these resources prove valuable in identifying the ideal platform for your
 ### 6. Reference and citation management tools<a id='6'></a>
 
 1. [mybib](https://www.mybib.com/): Automatically create bibliographies, references, and citations in APA, MLA, Chicago, Harvard, and more with our fast and free citation generator.
-   - put doi of any paper to generate biblography with different style
+   - put DOI of any paper to generate bibliography with different style
+
+<br>
 
 ### 7. Research networking and sharing<a id='7'></a>
 
