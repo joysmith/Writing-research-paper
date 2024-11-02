@@ -54,8 +54,6 @@ Ensure reliability of experiments, the experiment should be transparent
 2. Result: explanation of data
 3. Discussion: attaching meaning to result in present research context or scenario
 
-⬅️ put result paper link here
-
 <br>
 
 ### 5. Conclusion<a id='5'></a>
@@ -79,7 +77,7 @@ at last we do 10-20 words that give some meaning
 
 ### 8. Finding keywords<a id='8'></a>
 
-after abstract we put
+after/below abstract we put keywords
 
 ---
 
