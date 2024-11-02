@@ -63,6 +63,12 @@ Ensure reliability of experiments, the experiment should be transparent
 3. Implications of applications
 4. Recommendations for future
 
+example
+
+- [conclusion]()
+- [conclusion]()
+- [conclusion]()
+
 <br>
 
 ### 6. Reference<a id='6'></a>
@@ -71,9 +77,9 @@ Give credits to the source in a list following a specific citation style
 
 example
 
-- []()
-- []()
-- []()
+- [Reference](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/06%20reference/01%20%20Data%20Dissemination%20Protocol%20for%20Mobile%20Sink%20in%20Wireless%20Sensor.pdf)
+- [Reference](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/06%20reference/02%20.pdf)
+- [Reference](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/06%20reference/03%20MSGR_A_Mode-Switched_Grid-based_Sustainable_Routin.pdf)
 
 <br>
 
