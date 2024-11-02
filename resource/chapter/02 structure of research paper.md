@@ -97,6 +97,11 @@ at last we do 10-20 words that give some meaning
 
 after/below abstract we put keywords
 
+example
+
+- [keyword](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/08%20keywords/02%20.pdf)
+- [keyword](https://github.com/joysmith/Writing-research-paper/blob/main/resource/assets/paper/08%20keywords/03%20MSGR_A_Mode-Switched_Grid-based_Sustainable_Routin.pdf)
+
 ---
 
 <br>
